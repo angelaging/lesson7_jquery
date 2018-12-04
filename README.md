@@ -4,20 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(December 4, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Angela Ging)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment's purpose was to add elements to a Recipe Display App.
+I created a script file and utilized jQuery and understanding the syntax behind it.
+I also participated in coding drills and practice exercises to check and manipulate my code.)
 
 ### View Project Online:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+ https://angelaging.github.io/lesson7_jquery/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to utilize the animate() method in my Recipe Display App.)
+2. (I learned how to utilize the hover() method in my Recipe Display App.)
+3. (I was able to understand the inner workings of jQuery and the role JavaScript plays in jQuery.)
 
